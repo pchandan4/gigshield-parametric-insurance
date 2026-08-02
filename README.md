@@ -3,7 +3,7 @@
 > **[Pitch Deck — Final DEVTrails 2026 Presentation](https://docs.google.com/presentation/d/1gU71zUILfgao9iSAmbHQcoYcVA3Bb-fwnZ8t8PcOhic/edit?usp=sharing)**  
 > **[Demo Video — 5-Minute Technical Walkthrough](https://youtu.be/Yr_K0skHz-s?feature=shared)**
 
-GigShield is a parametric income-protection platform built for food and grocery delivery workers. It protects riders against verified external disruptions such as heavy rain, severe pollution, floods, and local curfews that reduce working hours and cause immediate wage loss. The platform combines a deterministic parametric rule engine with an ML-based fraud scoring service to enable transparent claim automation, simulated instant payouts, and intelligent worker/admin dashboards.[file:3]
+GigShield is a parametric income-protection platform built for food and grocery delivery workers. It protects riders against verified external disruptions such as heavy rain, severe pollution, floods, and local curfews that reduce working hours and cause immediate wage loss. The platform combines a deterministic parametric rule engine with an ML-based fraud scoring service to enable transparent claim automation, simulated instant payouts, and intelligent worker/admin dashboards.
 
 ---
 
